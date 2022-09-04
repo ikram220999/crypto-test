@@ -1,0 +1,12 @@
+.cont{
+    background-color: lightgrey;
+}
+
+.wrapper-crypto{
+    /* border: 1px solid black; */
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 8px 9px 3px -4px rgba(147,147,147,0.72);
+    -webkit-box-shadow: 8px 9px 3px -4px rgba(147,147,147,0.72);
+    -moz-box-shadow: 8px 9px 3px -4px rgba(147,147,147,0.72);
+}
