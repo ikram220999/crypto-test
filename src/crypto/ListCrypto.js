@@ -36,7 +36,7 @@ const ListCrypto = () => {
 
   return (
     <Container fluid className="p-3 cont">
-      <h1 className="h3 mb-5"> </h1>
+      <h1 className="h3 mb-5"> Crypto</h1>
 
                   {crypto.map((cry, index) => {
                     return (
